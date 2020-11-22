@@ -18,13 +18,13 @@ tarantoolctl start vaska.lua
 
 
 3. Загрузка данных в БД
-Загрузка происходит командами боту в личные сообщения:
-/addPhrases *Фразы*
-/addAnswer *Фразы*
+Загрузка происходит командами боту в личные сообщения: 
+* /addPhrases \*Фразы\*
+* /addAnswer \*Фразы\*
 Смотреть функции:
-add_phrases
-add_answer
-sticker
+* add_phrases
+* add_answer
+* sticker
 
 
 4. Вставляем свои данные в vaska_bot.py
