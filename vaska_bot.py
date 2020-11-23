@@ -28,8 +28,8 @@ loop = asyncio.get_event_loop()
 
 
 NAME = "vaska"
-TOKEN = '001.2918970001.1540231839:753423284'
-APP_ID = "Y2Q635-YXJJYT8HL9"
+TOKEN = "***.**********.**********:*********"
+APP_ID = "******-********"
 
 client = wolframalpha.Client(APP_ID)
 bot = Bot(token=TOKEN, name=NAME)
